@@ -33,7 +33,7 @@
 
 1. Create a telegram bot 
 1. Realtime Database as shown in image.
-1. <img src="images/img2.png">
+1. <img src="images/js-remote.png">
 1. You app is Now ready.
 1. When user will install the app his/her session will appear on Web Panel click on the User to establish Connection with that specified Device.
 
